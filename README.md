@@ -1,22 +1,9 @@
 NTIRE_test_code
 =============
-These are all test scripts of our Grouped Residual Dense Network(GRDN) for [NTIRE 2019 Real Image Denoising Challenge](https://competitions.codalab.org/competitions/21258)
-
-### "WINNER of NTIRE 2019 Real Image Denoising Challenge:sRGB track"
-
-### Paper uploaded on arXiv!
-https://arxiv.org/abs/1905.11172
+These are all test scripts of our Dual-Domain Deep Convolutional Neural Networks for Demoireing for [NTIRE 2020 Demoireing Challenge](https://competitions.codalab.org/competitions/22223)
 
 ### The challenge name  
-NTIRE2019 Real Image Denoising Challenge   
-
-### PLEASE READ
-We wanted to upload codes, models, and input mat file, but we had trouble when we try to reproduce our results because
-to upload files over 100mb, We need to use 'git lfs' but it may modify models and test inputs so there will be errors. So
-we decided to upload all files needed to reproduce our model at Google Drive and will share download link below:
-
-### Download link
-https://drive.google.com/file/d/1hAPTDGYl4JSo0LUE1xdyYlIRsKzw8zYy/view?usp=sharing
+NTIRE 2020 Demoireing Challenge  
 
 Prerequisites  
 -------------
