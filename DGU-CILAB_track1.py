@@ -43,9 +43,9 @@ if __name__ == '__main__':
 
     with torch.no_grad():
         # Network weights path
-        P_net_path = 'MODEL/SINGLE/Pixelnet/net_1.pth'
-        DCT_net_path = 'MODEL/SINGLE/DCTnet/net_1.pth'
-        Fnet_path = 'MODEL/SINGLE/Fnet/net_1.pth'
+        P_net_path = 'MODEL/SINGLE/Pixelnet/net_19.pth'
+        DCT_net_path = 'MODEL/SINGLE/DCTnet/net_23.pth'
+        Fnet_path = 'MODEL/SINGLE/Fnet/net_3.pth'
 
         # Options
         device = opt.is_cuda
