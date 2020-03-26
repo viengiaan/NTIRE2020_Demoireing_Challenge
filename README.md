@@ -7,25 +7,24 @@ NTIRE 2020 Demoireing Challenge
 
 Prerequisites  
 -------------
-* pytorch 1.0
-* python 3.6 or 3.7
-* cv2  
+* pytorch 1.3  
+* python 3.6 or 3.7  
+* torchvision  
+* glob  
+* pillow 6.2  
 * numpy  
-* tqdm  
 * time  
 * scipy  
+* argparse  
 
 
 How to Run
 -------------
-> Track 1 : please run 'DGU-3DMlab1_track1.py'  
-> Track 2 : please run 'DGU-3DMlab1_track2.py'  
+> Track 1 : please run 'DGU-CILAB_track1.py'  
+> Track 2 : please run 'DGU-CILAB_track2.py'  
   
  
 Full version for training
 -------------
 No plan  
 
-Realistic noise simulation(using GAN) test code
--------------
-https://github.com/spnova12/NoiseMakingGan
