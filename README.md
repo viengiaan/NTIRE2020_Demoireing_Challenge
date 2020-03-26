@@ -1,6 +1,6 @@
 NTIRE_test_code
 =============
-These are all test scripts of our Dual-Domain Deep Convolutional Neural Networks for Demoireing for [NTIRE 2020 Demoireing Challenge](https://competitions.codalab.org/competitions/22223)
+These are all test scripts of our Dual-Domain Deep Convolutional Neural Networks for [NTIRE 2020 Demoireing Challenge](https://competitions.codalab.org/competitions/22223)
 
 ### The challenge name  
 NTIRE 2020 Demoireing Challenge  
